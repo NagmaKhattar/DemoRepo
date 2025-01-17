@@ -17,11 +17,13 @@ public class Friday2025 {
      * arguments
      */
     //showing pull
+    //fetch and merge
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi");
         //showing other commit
         //making a change 
+        //fetching and merging 
     }
     
 }
